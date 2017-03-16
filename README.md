@@ -1,0 +1,1 @@
+# JobList_WebProject这是帮同学做的一个招聘信息查询网站，使用的是JSP+Mysql+Tomcat，第一次做Web项目练练手，界面比较简陋
